@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Arkani</h1>
-<h3 align="center">(not yet)developer</h3>
+<h3 align="center">(not yet)web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruushy&label=Profile%20views&color=0e75b6&style=flat" alt="ruushy" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ruushy" alt="ruushy" /></a> </p>
 
-- 🌱 I’m currently learning ** ,Django , php , java**
+- 🌱 I’m currently learning ** Django window and adminstration**
 
 - 💬 Ask me about **django html and css**
 
